@@ -1,4 +1,4 @@
-[RasPinfo](https://www.github.com/homehedgehog/test)
+[RasPinfo](https://www.github.com/homehedgehog/testi)
 ======
 RasPinfo copyright (C) 2017-2018, Lasse Oksanen <lasse_oksanen@hotmail.com>
 
