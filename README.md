@@ -1,4 +1,4 @@
-[RasPinfo](https://www.github.com/homehedgehog/testi)
+[RasPinfo](https://www.github.com/homehedgehog/RasPinfo)
 ======
 RasPinfo copyright (C) 2017-2018, Lasse Oksanen <lasse_oksanen@hotmail.com>
 
@@ -89,7 +89,7 @@ If some of the attributes are not set correctly, the software will use _default 
 
 License
 -------
-RasPinfo is released under GNU Public License version 3, see [COPYING](https://github.com/homehedgehog/testi/blob/master/COPYING.txt) for more information.
+RasPinfo is released under GNU Public License version 3, see [COPYING](https://github.com/homehedgehog/RasPinfo/blob/master/COPYING.txt) for more information.
 
 Bootstrap v3.3.7 is released under MIT license, see https://github.com/twbs/bootstrap/blob/master/LICENSE for more information.
 
