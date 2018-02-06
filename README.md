@@ -55,7 +55,7 @@ $ sudo apt-get install php libapache2-mod-php -y
 
 Download the `raspinfo.zip` file to the Apache www folder:
 ```
-$ sudo wget http://projects.fluctis.com/raspinfo/raspinfo.zip -O /var/www/html/raspinfo.zip
+$ sudo wget -O /var/www/html/raspinfo.zip
 ```
 Unzip the `raspinfo.zip` to the Apache www folder:
 ```
@@ -89,7 +89,7 @@ If some of the attributes are not set correctly, the software will use _default 
 
 License
 -------
-RasPinfo is released under GNU Public License version 3, see [COPYING](https://github.com/homehedgehog) for more information.
+RasPinfo is released under GNU Public License version 3, see [COPYING](https://github.com/homehedgehog/testi/blob/master/COPYING.txt) for more information.
 
 Bootstrap v3.3.7 is released under MIT license, see https://github.com/twbs/bootstrap/blob/master/LICENSE for more information.
 
