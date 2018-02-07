@@ -68,7 +68,7 @@ $ sudo unzip /var/www/html/raspinfo.zip -d /var/www/html/raspinfo
 $ sudo chmod +x /var/www/html/raspinfo/sh/get-data.sh
 ```
 
-5. Usermod www-data:  
+5. Usermod the www data:  
 ```
 $ sudo usermod -G video www-data
 ```
